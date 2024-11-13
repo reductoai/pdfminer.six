@@ -18,7 +18,7 @@ if sys.version_info < (3, 12):
     extras_require["dev"].append("atheris")
 
 setup(
-    name="pdfminer.six",
+    name="pdfminer.six.reducto",
     setuptools_git_versioning={
         "enabled": True,
     },
